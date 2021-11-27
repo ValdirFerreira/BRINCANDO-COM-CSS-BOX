@@ -1,0 +1,13 @@
+﻿
+.box {
+    background: limegreen;
+    width: 25rem;
+    aspect-ratio: 1 / 1;
+    inset: 0rem;
+    margin: auto;
+    box-shadow: 
+        0 2rem 4px -1rem blue,
+        0 4rem 4px -2rem red,
+        0 6rem 4px -3rem purple,
+        0 8rem 4px -4rem black;
+}
